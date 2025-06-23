@@ -28,7 +28,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Lagos%2C+Nigeria+🇳🇬;3%2B+Years+of+Building+Amazing+Applications;Passionate+about+User-Centric+Solutions" alt="About Me Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Ibadan%2C+Nigeria+🇳🇬;1%2B+Years+of+Building+Amazing+Applications;Passionate+about+User-Centric+Solutions" alt="About Me Typing" />
 </div>
 
 <br>
@@ -179,17 +179,6 @@
   <h3>📧 Drop me a line: <a href="mailto:raphaelasiwaju1@gmail.com">raphaelasiwaju1@gmail.com</a></h3>
   <p>💬 Always open to discussing new opportunities and collaborations!</p>
 </div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Scalable Flutter Apps with Firebase
-- 💡 React Best Practices for 2024
-- 🔥 API Integration Strategies for Mobile Apps
-- 📱 Cross-Platform Development: Flutter vs React Native
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
