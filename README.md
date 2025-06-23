@@ -75,7 +75,6 @@ const raphael = {
 
 <table>
 <tr>
-<td width="50%">
 
 ### 🔭 Current Focus
 - **Advanced Flutter Animations** - Creating smooth, delightful user interactions
@@ -83,32 +82,9 @@ const raphael = {
 - **Performance Optimization** - Making apps lightning-fast
 - **Open Source Contributions** - Giving back to the community
 
-</td>
-<td width="50%">
-
-### 🌱 Learning Journey
-- **GraphQL & Apollo** - Next-gen API development
-- **Docker & Kubernetes** - Containerization mastery
-- **Machine Learning** - AI-powered applications
-- **Web3 & Blockchain** - Future of decentralized apps
-
-</td>
 </tr>
 </table>
 
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🚀 [Project Alpha]** | Revolutionary mobile app for task management | Flutter, Firebase, Riverpod | [Demo](https://link) • [Code](https://github.com) |
-| **💼 [Business Suite]** | Complete business management solution | React, Node.js, MongoDB | [Demo](https://link) • [Code](https://github.com) |
-| **🎨 [Design System]** | Reusable UI components library | Flutter, Storybook | [Demo](https://link) • [Code](https://github.com) |
-
-</div>
 
 ---
 
@@ -133,7 +109,7 @@ const raphael = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=awoyemiraphael&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Awomoon&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4)
 
 </div>
 
