@@ -28,32 +28,76 @@
 ## 🚀 About Me
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Lagos%2C+Nigeria+🇳🇬;3%2B+Years+of+Building+Amazing+Applications;Passionate+about+User-Centric+Solutions" alt="About Me Typing" />
+</div>
 
-```javascript
-const raphael = {
-    name: "Awoyemi Raphael",
-    username: "Awomoon",
-    location: "Lagos, Nigeria 🇳🇬",
-    role: "Full-Stack Developer",
-    passion: "Creating seamless user experiences",
-    
-    techStack: {
-        mobile: ["Flutter", "Android Studio"],
-        frontend: ["React", "JavaScript", "TypeScript"],
-        backend: ["Node.js", "PHP", "Express"],
-        database: ["Firebase", "MongoDB", "MySQL"],
-        tools: ["Git", "Postman", "VS Code"]
-    },
-    
-    currentFocus: "Cross-platform applications & AI integration",
-    email: "raphaelasiwaju1@gmail.com",
-    
-    motto: "Code with purpose, build with impact! 💫"
-};
+<br>
 
-console.log("Welcome to my GitHub profile! 🎉");
-```
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🎯_Passion-Creating_Seamless_UX-00D9FF?style=for-the-badge&labelColor=0D1117" />
+        <br><br>
+        <strong>🚀 What Drives Me</strong>
+        <p>Building scalable mobile applications that solve real-world problems and enhance user experiences through clean, maintainable code.</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/⚡_Focus-Cross_Platform_Apps-FFD700?style=for-the-badge&labelColor=0D1117" />
+        <br><br>
+        <strong>🎯 Current Focus</strong>
+        <p>Mastering Flutter advanced patterns, Firebase architecture optimization, and integrating AI/ML capabilities in mobile applications.</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🤝_Status-Open_for_Collaboration-28a745?style=for-the-badge&labelColor=0D1117" />
+        <br><br>
+        <strong>💼 Availability</strong>
+        <p>Open to freelance projects and collaborations. Always excited to work on innovative solutions with passionate teams.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br>
+
+<div align="center">
+  <h3>🌟 <strong>My Development Philosophy</strong></h3>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Code-Clean_%26_Scalable-00D9FF?style=flat-square&logo=code&logoColor=white" />
+        <p><strong>Clean Code</strong><br>Maintainable & Scalable</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Design-User_First-FF6B6B?style=flat-square&logo=figma&logoColor=white" />
+        <p><strong>User-First</strong><br>Design Approach</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Learning-Continuous_Growth-4ECDC4?style=flat-square&logo=graduation-cap&logoColor=white" />
+        <p><strong>Growth Mindset</strong><br>Always Learning</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Team-Collaboration-FFD93D?style=flat-square&logo=handshake&logoColor=white" />
+        <p><strong>Team Player</strong><br>Leadership Skills</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🎭 <strong>Fun Facts About Me</strong></h3>
+  <p>
+    🎮 Love debugging as much as gaming &nbsp;•&nbsp; 
+    ☕ Coffee-driven development &nbsp;•&nbsp; 
+    📚 Always learning new tech &nbsp;•&nbsp; 
+    🎨 UI/UX enthusiast
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=💫+%22Code+with+purpose%2C+build+with+impact!%22;🚀+Let's+turn+ideas+into+reality+together!" alt="Motto Typing" />
 </div>
 
 ---
@@ -99,29 +143,6 @@ console.log("Welcome to my GitHub profile! 🎉");
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Awomoon&theme=tokyonight&no-frame=true&margin-w=15&column=4&title=Stars,Followers,Commits,PullRequest" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 💼 What I'm Working On
-
-<div align="center">
-
-```yaml
-Current Projects:
-  - 🚀 Flutter mobile applications with Firebase integration
-  - 🌐 React web applications with modern UI/UX
-  - 📱 Cross-platform solutions for better user experience
-  - 🔥 API development and integration projects
-  - 🤖 Exploring AI/ML integration in mobile apps
-
-Learning Focus:
-  - Advanced Flutter animations and custom widgets
-  - React Native for cross-platform development
-  - Cloud architecture with Firebase and AWS
-  - Modern PHP frameworks and best practices
-```
-
 </div>
 
 ---
