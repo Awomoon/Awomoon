@@ -40,6 +40,7 @@ const raphael = {
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -48,24 +49,25 @@ const raphael = {
 <img src="https://skillicons.dev/icons?i=flutter,react,js,ts,html,css,tailwind" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,php,mysql" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
 
 </div>
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awoyemiraphael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awoyemiraphael&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Awomoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awomoon&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awoyemiraphael&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFA500&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awomoon&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFA500&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -73,7 +75,7 @@ const raphael = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awoyemiraphael&theme=tokyonight&no-frame=true&margin-w=15&column=3&title=Stars,Followers,Commits" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Awomoon&theme=tokyonight&no-frame=true&margin-w=15&column=3&title=Stars,Followers,Commits" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -81,7 +83,7 @@ const raphael = {
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="mailto:awoyemiraphael@gmail.com">
+  <a href="mailto:raphaelasiwaju1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/awoyemi-raphael/">
