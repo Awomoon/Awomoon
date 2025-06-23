@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=awoyemiraphael&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/awoyemiraphael?tab=followers">
-    <img src="https://img.shields.io/github/followers/awoyemiraphael?color=00D9FF&logo=github&style=for-the-badge&label=Followers" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=Awomoon&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Awomoon?tab=followers">
+    <img src="https://img.shields.io/github/followers/Awomoon?color=00D9FF&logo=github&style=for-the-badge&label=Followers" alt="GitHub Followers">
   </a>
   <img src="https://img.shields.io/github/stars/awoyemiraphael?color=FFD700&logo=github&style=for-the-badge&label=Stars" alt="GitHub Stars">
 </div>
@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/awoyemiraphael/awoyemiraphael/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/Awomoon/Awomoon/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
