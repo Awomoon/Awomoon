@@ -13,7 +13,7 @@
   </a>
   <img src="https://img.shields.io/github/stars/Awomoon?color=FFD700&logo=github&style=for-the-badge&label=Stars" alt="GitHub Stars">
   <a href="https://github.com/Awomoon">
-    <img src="https://img.shields.io/badge/Location-Lagos,%20Nigeria-28a745?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+    <img src="https://img.shields.io/badge/Location-Ibadan,%20Nigeria-28a745?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
   </a>
 </div>
 
