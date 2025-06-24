@@ -150,7 +150,7 @@
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://wakatime.com/share/@Awomoon/8b7a6d42-b4de-4e8a-9b3e-7e0b5d5a8e4c.svg" alt="Wakatime Stats" width="500"/>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4ce63b45-d89d-4d21-b187-4ea8931a2c76/527634e6-54a8-4d95-8aab-2fc69d46b886.png" /></a>
 </div>
 
 ---
